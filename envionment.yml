@@ -1,0 +1,23 @@
+name: maps
+channels:
+  - conda-forge
+  - defaults
+  - kaspermunch
+  - bioconda
+  - r
+dependencies:
+  - geoplot
+  - jupyter
+  - geopandas=0.11
+  - pandas
+  - adjusttext
+  - seaborn
+  - numpy
+  - openpyxl
+  - jupyterlab
+  - cartopy
+  - matplotlib
+  - lxml
+  - ete3
+  - rtree
+prefix: /Users/kmt/miniconda3/envs/maps
