@@ -1,0 +1,15 @@
+name: maps
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - cartopy
+  - cryptography
+  - earthpy
+  - geopandas
+  - geoplot
+  - jupyterlab
+  - rasterio
+  - seaborn
+  - shapely
+prefix: /Users/kmt/miniconda3/envs/maps
